@@ -15,7 +15,7 @@ import json
 os.getcwd()
 
 #set project directory
-path = r"\\file018\PMO_GRPB\RENEWAL\CMS Data\SHDS\AC Replacement Model"
+path = r"uw-model"
 
 # --- Code Block ---
 #create teradata connection
